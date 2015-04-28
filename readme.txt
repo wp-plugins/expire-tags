@@ -1,6 +1,6 @@
 === Expire tags ===
 Contributors: xyulex
-Tags: expire, expiration, tags, plugin, post
+Tags: expire,expiration,tags,plugin,post
 Requires at least: 3.0
 Stable tag: trunk
 Tested up to: 4.2.1
