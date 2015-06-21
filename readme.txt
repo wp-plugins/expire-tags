@@ -3,9 +3,12 @@ Contributors: xyulex
 Tags: expire,expiration,tags,plugin,post
 Requires at least: 3.0
 Stable tag: trunk
-Tested up to: 4.2.1
+Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+Make your tags expire on a certain date.
 
 == Description ==
 * Expire tags allows you to add a date to a tag to expire it.  When the date is reached the tag is no longer associated with the post, but the tag is not removed and the post is not deleted. 
