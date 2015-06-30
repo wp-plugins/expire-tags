@@ -7,6 +7,8 @@ Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+Make tags expire on a certain date.
+
 == Description ==
 * Expire tags allows you to add a date to a tag to expire it.  When the date is reached the tag is no longer associated with the post, but the tag is not removed and the post is not deleted.
 * This could be used to display a custom query by tag of important issues or upcoming events.
