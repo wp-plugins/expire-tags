@@ -98,7 +98,7 @@ function expiretags_options() {
 
     $total_query = "SELECT COUNT(1) FROM (${sql}) AS combined_table";
     $total = $wpdb->get_var( $total_query );
-    $items_per_page = 1;
+    $items_per_page = 10;
     $page = isset( $_GET['cpage'] ) ? abs( (int) $_GET['cpage'] ) : 1;
     $offset = ( $page * $items_per_page ) - $items_per_page;
     $posts = $wpdb->get_results( $sql . " LIMIT ${offset}, ${items_per_page}" );
