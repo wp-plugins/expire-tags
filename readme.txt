@@ -1,4 +1,5 @@
 === Expire tags ===
+Author: Raúl Martínez
 Contributors: xyulex
 Tags: easy,expire,expiration,expirate,tag,tags,plugin,post,etiqueta,etiquetas
 Requires at least: 3.0
