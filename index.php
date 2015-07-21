@@ -4,8 +4,8 @@ Plugin Name: Expire Tags
 Description: Expire tags allows you to add a date to a tag to expire it.  When the date is reached the tag is no longer associated with the post, but the tag is not removed and the post is not deleted. 
 This could be used to display a custom query by tag of important issues or upcoming events.
 Version: 0.3
-Author:      xyulex
-Author URI:  https://profiles.wordpress.org/xyulex/
+Author:      Raúl Martínez
+Author URI:  https://github.com/xyulex/
 License:     GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
