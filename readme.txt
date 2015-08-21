@@ -4,7 +4,7 @@ Contributors: xyulex
 Tags: easy,expire,expiration,expirate,tag,tags,plugin,post,etiqueta,etiquetas
 Requires at least: 3.0
 Stable tag: 0.3
-Tested up to: 4.2.2
+Tested up to: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2DCQ4BXXVR3A
